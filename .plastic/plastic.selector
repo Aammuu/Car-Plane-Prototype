@@ -1,0 +1,4 @@
+repository "Prototype 1@aammuu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
